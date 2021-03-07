@@ -1,0 +1,15 @@
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\João Vitor\Desktop\Estudos\C#\complete-guide-building-app-react-net-core\reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
